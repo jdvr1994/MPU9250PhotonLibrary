@@ -8,7 +8,7 @@ This is a library of MPU9250 devices (Inertial and Magnetic Array Sensors) for P
 Set up the hardware:
 - A MPU9250 device with I2C Protocol
 
-Flash the [mpu9250 example](examples/mpu9250Example.cpp).
+Flash the [mpu9250 example](examples/readsensors/readsensors.ino).
 
 Adapt it to your needs while keeping this general structure:
 
