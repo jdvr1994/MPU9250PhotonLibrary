@@ -143,4 +143,4 @@ This function set up accelerometer scale register.
 ## License
 Copyright 2018-2022 JDVR, Juan David Velasquez Rosero
 
-Released under the MIT license
+Released under the LGPL license
