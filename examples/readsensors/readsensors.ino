@@ -15,7 +15,7 @@
 
 #define MAG_CONVERSION_16_BITS      (4912*2)/65535
 
-MPU9250 margSensor();
+MPU9250 margSensor;
 int16_t dataSensor[10]; //[NumSensors] (3gyros - 3 Accel - 1 Temp - 3 Mag)
 
 float
